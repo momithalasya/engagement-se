@@ -127,7 +127,7 @@ body {
 }
 
 /* In your styles.css file, within the .stream-section h2 rule */
-.stream-section h1 { /* Target the h3 specifically within the stream section */
+.stream-section h3 { /* Target the h3 specifically within the stream section */
   font-family: 'SeptemberDisplay', 'Dancing Script', cursive; /* Use your custom font, then fallback options */
   font-size: 1.6em; /* Adjust as needed */
   margin-bottom: 20px; /* Example, adjust as needed */
@@ -166,4 +166,5 @@ footer p {
   }
 
 }
+
 
